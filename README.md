@@ -1,4 +1,4 @@
-The overall goal of the research work is to localize user needs and discover ways to implement electronics into the inhaler in order to solve 
+Abstract - The overall goal of the research work is to localize user needs and discover ways to implement electronics into the inhaler in order to solve 
 the needs and improve the user experience and service provisioning. Planning a context-aware middleware may be a challenging issue because of 
 particular characteristics of settings and gadgets such as the energetic nature of setting and asset confinement of gadgets. Moreover, the 
 middleware ought to give an agreeable framework in which application designers seem effortlessly trade determining relevant data. To address 
