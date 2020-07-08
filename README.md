@@ -1,4 +1,5 @@
-#IoT-Based-Smart-Inhaler-for-Context-Aware-Service-Provisioning
+#IoT-Based-Smart-Inhaler-for-Context-Aware-Service-Provisioning.
+
 Project Date: May, 2020
 
 Abstract - The overall goal of the research work is to localize user needs and discover ways to implement electronics into the inhaler in order to solve 
