@@ -1,5 +1,8 @@
 #IoT-Based-Smart-Inhaler-for-Context-Aware-Service-Provisioning.
 
+Publisher: IEEE Xplore
+Paper Link: https://ieeexplore.ieee.org/document/9333427
+
 Project Date: May, 2020
 
 Abstract - The overall goal of the research work is to localize user needs and discover ways to implement electronics into the inhaler in order to solve 
